@@ -77,7 +77,7 @@ MOV A,D
 STA 0024H
 
 HLT
-
+```
 ## Output:
 
 
